@@ -1,0 +1,19 @@
+body {
+
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+}
+
+
+
+#marcador{
+    background-color:rgb(68, 68, 68); rgba(21,21,31,200);
+    height: 70px;
+    width: 200px;
+    transform: scale(1);
+    border: solid 2px white;
+    color: #3dfa85;
+    
+}
